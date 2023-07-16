@@ -10,6 +10,12 @@ The aim of this Python script is to simplify and automate the conversion of high
 
 ![surface6k](https://typora-bochen.oss-cn-hongkong.aliyuncs.com/Typora/surface6k.png)
 
+*Above: On the left is a model with 4 million surface points. On the right is the same model after being processed by the script, reduced to 6 thousand surface points.*
+
+I used this to autonomously convert a batch of high-fidelity models into low-fidelity models.
+
+![batch](https://typora-bochen.oss-cn-hongkong.aliyuncs.com/Typora/batch.png)
+
 ## Getting Started
 
 ### Prerequisites
